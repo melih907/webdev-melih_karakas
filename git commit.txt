@@ -1,0 +1,100 @@
+MELİH@LAPTOP-RRFN5QR6 MINGW64 ~/Desktop/DERS/WEB PROGRAMLAMA/VİZE/webdev-melih_karakas (main)
+$ git init
+Reinitialized existing Git repository in C:/Users/MELİH/Desktop/DERS/WEB PROGRAMLAMA/VİZE/webdev-melih_karakas/.git/
+
+MELİH@LAPTOP-RRFN5QR6 MINGW64 ~/Desktop/DERS/WEB PROGRAMLAMA/VİZE/webdev-melih_karakas (main)
+$ git add .
+
+MELİH@LAPTOP-RRFN5QR6 MINGW64 ~/Desktop/DERS/WEB PROGRAMLAMA/VİZE/webdev-melih_karakas (main)
+$ git commit -m "ilk commit"
+[main 76c6869] ilk commit
+ 1 file changed, 27 insertions(+), 216 deletions(-)
+ rewrite tasarim.css (85%)
+
+MELİH@LAPTOP-RRFN5QR6 MINGW64 ~/Desktop/DERS/WEB PROGRAMLAMA/VİZE/webdev-melih_karakas (main)
+$ git remote add origin https://github.com/melih907/Web-Programlama.git
+error: remote origin already exists.
+
+MELİH@LAPTOP-RRFN5QR6 MINGW64 ~/Desktop/DERS/WEB PROGRAMLAMA/VİZE/webdev-melih_karakas (main)
+$ git branch -M main
+
+MELİH@LAPTOP-RRFN5QR6 MINGW64 ~/Desktop/DERS/WEB PROGRAMLAMA/VİZE/webdev-melih_karakas (main)
+$ git push -u origin main
+Enumerating objects: 5, done.
+Counting objects: 100% (5/5), done.
+Delta compression using up to 8 threads
+Compressing objects: 100% (3/3), done.
+Writing objects: 100% (3/3), 280 bytes | 280.00 KiB/s, done.
+Total 3 (delta 2), reused 0 (delta 0), pack-reused 0
+remote: Resolving deltas: 100% (2/2), completed with 2 local objects.
+To https://github.com/melih907/webdev-melih_karakas.git
+   174978d..76c6869  main -> main
+Branch 'main' set up to track remote branch 'main' from 'origin'.
+
+MELİH@LAPTOP-RRFN5QR6 MINGW64 ~/Desktop/DERS/WEB PROGRAMLAMA/VİZE/webdev-melih_karakas (main)
+$ git add .
+
+MELİH@LAPTOP-RRFN5QR6 MINGW64 ~/Desktop/DERS/WEB PROGRAMLAMA/VİZE/webdev-melih_karakas (main)
+$ git commit -m "ikinci commmit"
+[main 3040cc8] ikinci commmit
+ 1 file changed, 133 insertions(+)
+
+MELİH@LAPTOP-RRFN5QR6 MINGW64 ~/Desktop/DERS/WEB PROGRAMLAMA/VİZE/webdev-melih_karakas (main)
+$ git push -u origin main
+Enumerating objects: 5, done.
+Counting objects: 100% (5/5), done.
+Delta compression using up to 8 threads
+Compressing objects: 100% (3/3), done.
+Writing objects: 100% (3/3), 882 bytes | 882.00 KiB/s, done.
+Total 3 (delta 1), reused 0 (delta 0), pack-reused 0
+remote: Resolving deltas: 100% (1/1), completed with 1 local object.
+To https://github.com/melih907/webdev-melih_karakas.git
+   76c6869..3040cc8  main -> main
+Branch 'main' set up to track remote branch 'main' from 'origin'.
+
+MELİH@LAPTOP-RRFN5QR6 MINGW64 ~/Desktop/DERS/WEB PROGRAMLAMA/VİZE/webdev-melih_karakas (main)
+$ git add .
+
+MELİH@LAPTOP-RRFN5QR6 MINGW64 ~/Desktop/DERS/WEB PROGRAMLAMA/VİZE/webdev-melih_karakas (main)
+$ git commit -m "ucuncu commit"
+[main 0cb9a48] ucuncu commit
+ 1 file changed, 28 insertions(+)
+
+MELİH@LAPTOP-RRFN5QR6 MINGW64 ~/Desktop/DERS/WEB PROGRAMLAMA/VİZE/webdev-melih_karakas (main)
+$ git push -u origin main
+Enumerating objects: 5, done.
+Counting objects: 100% (5/5), done.
+Delta compression using up to 8 threads
+Compressing objects: 100% (3/3), done.
+Writing objects: 100% (3/3), 535 bytes | 535.00 KiB/s, done.
+Total 3 (delta 2), reused 0 (delta 0), pack-reused 0
+remote: Resolving deltas: 100% (2/2), completed with 2 local objects.
+To https://github.com/melih907/webdev-melih_karakas.git
+   3040cc8..0cb9a48  main -> main
+Branch 'main' set up to track remote branch 'main' from 'origin'.
+
+MELİH@LAPTOP-RRFN5QR6 MINGW64 ~/Desktop/DERS/WEB PROGRAMLAMA/VİZE/webdev-melih_karakas (main)
+$
+MELİH@LAPTOP-RRFN5QR6 MINGW64 ~/Desktop/DERS/WEB PROGRAMLAMA/VİZE/webdev-melih_karakas (main)
+$ git add .
+
+MELİH@LAPTOP-RRFN5QR6 MINGW64 ~/Desktop/DERS/WEB PROGRAMLAMA/VİZE/webdev-melih_karakas (main)
+$ git commit -m "dorduncu commit"
+[main 44810fd] dorduncu commit
+ 1 file changed, 22 insertions(+)
+
+MELİH@LAPTOP-RRFN5QR6 MINGW64 ~/Desktop/DERS/WEB PROGRAMLAMA/VİZE/webdev-melih_karakas (main)
+$ git push -u origin main
+Enumerating objects: 5, done.
+Counting objects: 100% (5/5), done.
+Delta compression using up to 8 threads
+Compressing objects: 100% (3/3), done.
+Writing objects: 100% (3/3), 445 bytes | 445.00 KiB/s, done.
+Total 3 (delta 2), reused 0 (delta 0), pack-reused 0
+remote: Resolving deltas: 100% (2/2), completed with 2 local objects.
+To https://github.com/melih907/webdev-melih_karakas.git
+   0cb9a48..44810fd  main -> main
+Branch 'main' set up to track remote branch 'main' from 'origin'.
+
+MELİH@LAPTOP-RRFN5QR6 MINGW64 ~/Desktop/DERS/WEB PROGRAMLAMA/VİZE/webdev-melih_karakas (main)
+$ 

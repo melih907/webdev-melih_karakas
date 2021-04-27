@@ -9,7 +9,6 @@ input[type=text]{
     margin-left: -250px;
     margin-top: -40px;
     text-indent: 30px;
-    overflow: hidden;
     outline: none;
 }
 input[type=text]:hover{
@@ -192,9 +191,6 @@ a{
     width: 90%;
     display: flex;
     padding: 12px 20px;
-    justify-content: space-between;
-    align-items: center;
-    pointer-events: none;
 }
 #searchh{
     position: absolute;
