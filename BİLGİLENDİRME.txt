@@ -2,4 +2,4 @@ Hocam projeyi oluştururken commit etmiştim. Ancak bazı durumlardan dolayı pr
 projeyi silmek zorunda kaldım. Proje yapım aşamasında commit ettiğim kısımlarda tedbir amaçlı her commit anında kodları
 ayrı ayrı dosyalandırmıştım. Tekrar projeyi yaparken daha önce commit ettiğim yerlerde tekrar projeyi 4 defa commit ettim. Ve bunları github hesabımda 
 repository kısmına ekledim. Kodlar ve kullanılan belgeler son haliyle github hesabımda bulunmaktadır. Link de zaten repository.txt 
-dosyasında bulunmaktadır. 6 defa commit ettiğim projenin git kodlarını git commit.txt dosyasında paylaştım.
+dosyasında bulunmaktadır. 7 defa commit ettiğim projenin git kodlarını git commit.txt dosyasında paylaştım.

@@ -98,3 +98,26 @@ Branch 'main' set up to track remote branch 'main' from 'origin'.
 
 MELİH@LAPTOP-RRFN5QR6 MINGW64 ~/Desktop/DERS/WEB PROGRAMLAMA/VİZE/webdev-melih_karakas (main)
 $ 
+MELİH@LAPTOP-RRFN5QR6 MINGW64 ~/Desktop/DERS/WEB PROGRAMLAMA/VİZE/webdev-melih_karakas (main)
+$ git add .
+
+MELİH@LAPTOP-RRFN5QR6 MINGW64 ~/Desktop/DERS/WEB PROGRAMLAMA/VİZE/webdev-melih_karakas (main)
+$ git commit -m "altinci commit"
+[main ddbf0a6] altinci commit
+ 2 files changed, 2 insertions(+), 1 deletion(-)
+
+MELİH@LAPTOP-RRFN5QR6 MINGW64 ~/Desktop/DERS/WEB PROGRAMLAMA/VİZE/webdev-melih_karakas (main)
+$ git push -u origin main
+Enumerating objects: 7, done.
+Counting objects: 100% (7/7), done.
+Delta compression using up to 8 threads
+Compressing objects: 100% (3/3), done.
+Writing objects: 100% (4/4), 371 bytes | 371.00 KiB/s, done.
+Total 4 (delta 2), reused 0 (delta 0), pack-reused 0
+remote: Resolving deltas: 100% (2/2), completed with 2 local objects.
+To https://github.com/melih907/webdev-melih_karakas.git
+   b6566c4..ddbf0a6  main -> main
+Branch 'main' set up to track remote branch 'main' from 'origin'.
+
+MELİH@LAPTOP-RRFN5QR6 MINGW64 ~/Desktop/DERS/WEB PROGRAMLAMA/VİZE/webdev-melih_karakas (main)
+$
