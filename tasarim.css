@@ -186,3 +186,25 @@ a{
     margin-right: 0px;
     margin-left: 25px;
 }
+.icons{
+    position: absolute;
+    top: 0;
+    width: 90%;
+    display: flex;
+    padding: 12px 20px;
+    justify-content: space-between;
+    align-items: center;
+    pointer-events: none;
+}
+#searchh{
+    position: absolute;
+    top: 50px;
+    margin-top: 303px;
+    margin-left: 503px;
+}
+#klavye{
+    position: absolute;
+    top: 50px;
+    margin-top: 295px;
+    margin-left: 943px;
+}
