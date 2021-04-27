@@ -121,3 +121,27 @@ Branch 'main' set up to track remote branch 'main' from 'origin'.
 
 MELİH@LAPTOP-RRFN5QR6 MINGW64 ~/Desktop/DERS/WEB PROGRAMLAMA/VİZE/webdev-melih_karakas (main)
 $
+MELİH@LAPTOP-RRFN5QR6 MINGW64 ~/Desktop/DERS/WEB PROGRAMLAMA/VİZE/webdev-melih_karakas (main)
+$ git add .
+
+MELİH@LAPTOP-RRFN5QR6 MINGW64 ~/Desktop/DERS/WEB PROGRAMLAMA/VİZE/webdev-melih_karakas (main)
+$ git commit -m "yedinci commit"
+[main 5700603] yedinci commit
+ 3 files changed, 24 insertions(+), 1 deletion(-)
+ delete mode 100644 google.png
+
+MELİH@LAPTOP-RRFN5QR6 MINGW64 ~/Desktop/DERS/WEB PROGRAMLAMA/VİZE/webdev-melih_karakas (main)
+$ git push -u origin main
+Enumerating objects: 7, done.
+Counting objects: 100% (7/7), done.
+Delta compression using up to 8 threads
+Compressing objects: 100% (4/4), done.
+Writing objects: 100% (4/4), 507 bytes | 507.00 KiB/s, done.
+Total 4 (delta 3), reused 0 (delta 0), pack-reused 0
+remote: Resolving deltas: 100% (3/3), completed with 3 local objects.
+To https://github.com/melih907/webdev-melih_karakas.git
+   ddbf0a6..5700603  main -> main
+Branch 'main' set up to track remote branch 'main' from 'origin'.
+
+MELİH@LAPTOP-RRFN5QR6 MINGW64 ~/Desktop/DERS/WEB PROGRAMLAMA/VİZE/webdev-melih_karakas (main)
+$
